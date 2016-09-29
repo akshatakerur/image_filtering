@@ -3,6 +3,13 @@
 The program uses an image file either by reading it from a file or captured directly from the camera. 
 The program has key functions that perform particular operations on the image when that particular key is pressed. 
 
+## Running the file
+
+I use Spyder IDE an ipython console therefore the below instructions are for the same.
+
+import image.py
+image.main("image path") / image.main("")
+
 ##Key Functions
 
 Clicking these keys on the keyboard modifies the displayed image accordingly:
